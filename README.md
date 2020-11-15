@@ -1,2 +1,3 @@
 # Hangman
-Basic Hangman game in command line. 
+Basic Hangman game! 
+
